@@ -124,3 +124,5 @@ This QR code generator is **NOT** affiliated with, endorsed by, or intended for 
 - Users are solely responsible for any consequences resulting from the use of this software
 
 By using this software, you acknowledge that it is a demonstration project only and agree not to use it for any unauthorized purposes.
+
+
