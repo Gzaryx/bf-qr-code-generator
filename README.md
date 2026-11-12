@@ -1,4 +1,4 @@
-# Basic Fit QR Code Generator
+# Basic Fit QR Code Generators
 
 A minimal, TypeScript-based QR code generator that creates time-based QR codes with SHA-256 hash validation. The application runs entirely in the browser with no backend required.
 
